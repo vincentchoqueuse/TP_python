@@ -4,6 +4,6 @@
 
 ## Liste des Notebook Jupyter
 
-* Introduction: entrées/sorties & liste / tuples / dictionnaires & Structures de contrôle.
-* Utilisation des fonctions
+* Entrées/sorties & liste / tuples / dictionnaires & Structures de contrôle: [notebook](./notebooks/introduction.ipynb)
+* Fonctions: [notebook](./notebooks/fonctions.ipynb)
 * Programmation orientée objet.
