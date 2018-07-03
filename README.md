@@ -10,7 +10,7 @@
 
 ## Evaluation:
 
-* A la fin de chaque séance, votre notebook jupyter devra être renvoyé par mail à l'enseignant en charge du TP.
+* Chaque TP est noté. A la fin de chaque séance, votre notebook jupyter (fichier .pynb) devra être renvoyé par mail à l'enseignant en charge du TP. 
 
 ## Contributeurs:
 
