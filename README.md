@@ -8,6 +8,9 @@
 * Fonctions: [notebook](http://nbviewer.jupyter.org/github/vincentchoqueuse/TP_python/blob/master/notebooks/fonctions.ipynb)
 * Programmation orientée objet: [notebook](http://nbviewer.jupyter.org/github/vincentchoqueuse/TP_python/blob/master/notebooks/objets.ipynb)
 
+## Evaluation:
+
+* A la fin de chaque séance, votre notebook jupyter devra être renvoyé par mail à l'enseignant en charge du TP.
 
 ## Contributeurs:
 
